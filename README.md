@@ -42,3 +42,9 @@ pip install -r requirements.txt
 
 3. Run the tool
 python main.py
+
+
+
+## 📸 Screenshot
+
+![InfoHunter](assets/Screenshot%202026-06-01%20224126.png)
