@@ -1,6 +1,6 @@
 # 🔍 InfoHunter
 
-**InfoHunter** is a Python-based GUI reconnaissance tool designed for information gathering, network analysis, and file metadata extraction.
+![InfoHunter](assets/Screenshot%202026-06-01%20224126.png)
 
 It provides a simple interface built with Tkinter to perform multiple security and OSINT tasks in one tool.
 
@@ -45,6 +45,4 @@ python main.py
 
 
 
-## 📸 Screenshot
 
-![InfoHunter](assets/Screenshot%202026-06-01%20224126.png)
